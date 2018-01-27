@@ -62,6 +62,7 @@ pre{
 }
 code{
   background-color: #000000;
+//  padding: 0 5px;
   font-size: 120%;
 }
 math{
