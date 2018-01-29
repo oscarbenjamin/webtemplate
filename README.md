@@ -51,3 +51,10 @@ TODO
 
 * Add detection of subdirectories under docs in make.sh
 * Figure out how to reference equations and include example
+
+Links:
+------
+
+[Writing][writing] portable markdown.
+
+[writing]: https://github.com/janosgyerik/writing-markdown-well

@@ -13,13 +13,14 @@ Equation
 
 The root of $ax^2 + bx + c$ for $a \neq 0$ is given by
 $$
-  x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+  x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} %_
 $$
 
 Code
 ----
 
 Some C code with a `main` function:
+
 ```c
 #include <stdio.h>
 
@@ -31,6 +32,7 @@ int main(int argc, char *argv[])
 ```
 
 Also Python code works. This one uses the `print` function:
+
 ```python
 # hello world in Python
 
@@ -42,4 +44,4 @@ Picture
 
 Here's a picture of pi:
 
-![](images/pi.jpg){ width=50% }
+![](images/pi.jpg)
